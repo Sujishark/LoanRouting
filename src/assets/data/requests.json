@@ -1,0 +1,136 @@
+{
+  "requests": [
+    {
+      "id": 1,
+      "name": "Ram",
+      "amount": "10006330",
+      "salary": "2000",
+      "email": "ram@gmail.com",
+      "aadhar": "542678541254",
+      "pan": "LKJHN1254O",
+      "status": "Approved by Manager",
+      "salesOfficerApproved": true,
+      "supervisorApproved": true,
+      "managerApproved": true,
+      "srManagerApproved": false,
+      "remarks": {
+        "1": "nice",
+        "2": "good",
+        "3": "v",
+        "4": ""
+      }
+    },
+    {
+      "id": 2,
+      "name": "Raj",
+      "amount": "25999000",
+      "salary": "2000",
+      "email": "raj@gmail.com",
+      "aadhar": "45978652149",
+      "pan": "OPWQS4598M",
+      "status": "Loan Approved by Senior Manager",
+      "salesOfficerApproved": true,
+      "supervisorApproved": true,
+      "managerApproved": true,
+      "srManagerApproved": true,
+      "remarks": {
+        "1": "nice",
+        "2": "gOOD",
+        "3": "Excellent",
+        "4": ""
+      }
+    },
+    {
+      "id": 3,
+      "name": "Ravi",
+      "amount": "100000",
+      "salary": "8000",
+      "email": "ravi@gmail.com",
+      "aadhar": "985476321485",
+      "pan": "LUNCH1234S",
+      "status": "Rejected",
+      "salesOfficerApproved": false,
+      "supervisorApproved": false,
+      "managerApproved": false,
+      "srManagerApproved": false,
+      "remarks": {
+        "1": "Good",
+        "2": "",
+        "3": "",
+        "4": ""
+      }
+    },
+    {
+      "id": 4,
+      "name": "Kaviya",
+      "amount": "2500000",
+      "salary": "8000",
+      "email": "kavi@gmail.com",
+      "aadhar": "45978652149",
+      "pan": "OPWQS4598M",
+      "status": "Loan Approved by Senior Manager",
+      "salesOfficerApproved": true,
+      "supervisorApproved": true,
+      "managerApproved": true,
+      "srManagerApproved": true,
+      "remarks": {
+        "1": "Nice",
+        "2": "Good",
+        "3": "Excellent",
+        "4": "brilliant"
+      }
+    },
+    {
+      "id": 5,
+      "name": "Shalini",
+      "amount": "25999000",
+      "salary": "2000",
+      "email": "shals@gmail.com",
+      "aadhar": "45978652149",
+      "pan": "OPWQS4598M",
+      "status": "Loan Approved by Senior Manager",
+      "salesOfficerApproved": true,
+      "supervisorApproved": true,
+      "managerApproved": true,
+      "srManagerApproved": true,
+      "remarks": {
+        "1": "nice",
+        "2": "Good",
+        "3": "nice",
+        "4": "Super"
+      }
+    }
+  ],
+  "bank-officers": [
+    {
+      "id": 101,
+      "level": "1",
+      "username": "Sakthi",
+      "password": "sakthi"
+    },
+    {
+      "id": 102,
+      "level": "1",
+      "username": "Kumar",
+      "password": "kumar"
+    },
+    {
+      "id": 203,
+      "level": "2",
+      "username": "Aravind",
+      "password": "aravind"
+    },
+    {
+      "id": 304,
+      "level": "3",
+      "username": "Ashok",
+      "password": "ashok"
+    },
+    {
+      "id": 405,
+      "level": "4",
+      "username": "Maaran",
+      "password": "maaran"
+    }
+  ]
+}

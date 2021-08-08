@@ -1,0 +1,10 @@
+<div class="forms">
+<section ng-app="login" ng-controller="loginCtrl" ng-class="">
+    <form >
+    <h2>Login</h2>
+    <input [(ngModel)]="Employee.userid" class="form-control" name="userid" type="number" placeholder="Userid" />
+    <input [(ngModel)]="Employee.password" class="form-control" name="password" type="password" placeholder="Password" />
+    <button (click)="loginEmployee()">Log in</button>
+    </form>
+</section>
+</div>
